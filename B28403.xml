@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The proceedings of the Court of Admiralty, by a special commission, being the tryals of all the French pirates at the Old-Baily, on Monday. Tuseday [sic] Thursday and Friday, being the 21st, 22d, 24th, 25th days of October, 1700, and in the 12th year of His Majesty's Reign.</title>
+         </titleStmt>
+         <extent>Approx. 32KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28403</idno><idno type="EEBO-CITATION">99886936</idno>
+  <idno type="VID">189682</idno>
+  <idno type="EEBO-PROQUEST">2264219758</idno>
+  
+            <idno type="STC">Wing P3579</idno>
+            <idno type="STC">Interim Tract Supplement Guide 515.l.2[187]</idno>
+            <idno type="STC">ESTC R226796</idno>
+            <idno type="PROQUEST">ocm99886936</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886936e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28403)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 189682)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C17:1[187])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The proceedings of the Court of Admiralty, by a special commission, being the tryals of all the French pirates at the Old-Baily, on Monday. Tuseday [sic] Thursday and Friday, being the 21st, 22d, 24th, 25th days of October, 1700, and in the 12th year of His Majesty's Reign.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W.H. near Fleet-Bridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Pirates --  Early works to 1800.</term>
+               <term type="topical_term">Executions and executioners --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:189682:1"/>
+            <head>The PROCEEDINGS of the <hi>Court of Admiralty, by a special Commission,</hi> BEING The Tryals of all the <hi>French</hi> Pirates at the <hi>Old-Baily,</hi> on <hi>Monday. Tuseday Thursday</hi> and <hi>Friday,</hi> being the 21st, 22d, 24th, 25th Days of <hi>October,</hi> 1700, and in the 12th Year of His Majesty<hi>'s</hi> Reign.</head>
+            <p>THE Court being sate, and the Commission Read, the Jury con<g ref="char:EOLhyphen"/>sisting of Half English, and Half French, were call'd and Sworn, whose N<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mes are as followeth.</p>
+            <list>
+               <head>English.</head>
+               <item>Mr <hi>Jhon Long,</hi>
+               </item>
+               <item>
+                  <hi>Joseph Wellar,</hi>
+               </item>
+               <item>
+                  <hi>John Child,</hi>
+               </item>
+               <item>
+                  <hi>Edward Mot,</hi>
+               </item>
+               <item>
+                  <hi>Abraham Casten,</hi>
+               </item>
+               <item>
+                  <hi>James King.</hi>
+               </item>
+            </list>
+            <list>
+               <head>French.</head>
+               <item>
+                  <hi>John Tremistree,</hi>
+               </item>
+               <item>
+                  <hi>Peter Cambree,</hi>
+               </item>
+               <item>
+                  <hi>John Casteer,</hi>
+               </item>
+               <item>
+                  <hi>Randal Casteneers,</hi>
+               </item>
+               <item>
+                  <hi>Richard Casteneer,</hi>
+               </item>
+               <item>
+                  <hi>Richard Hestee.</hi>
+               </item>
+            </list>
+            <p>After Silence being Commanded, the Prisoners fol<g ref="char:EOLhyphen"/>lowing were brought to the Bar, and severally Arraign'd for Pyracy and Robbery on the High-Seas. Their In<g ref="char:EOLhyphen"/>dictment where as followeth.</p>
+            <p>That the said Pirates, in conjunction with o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hers of their Crew, did under the Command of <hi>Lewis Getar</hi> their Captain, on the 28th of <hi>April</hi> last, being on board a French Pirate call'd the <hi>Peace-Gally,</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the High Seas, within two Leagues of <hi>Cape Henry</hi> near <hi>Virginia</hi> assault in a violent and hostile manner, an <hi>Englsh</hi> Merchant Ship, called the <hi>Nicholson, Robert Lurtain</hi> Commander, and after and obstinate Resistance of about an hour and a half, took and carried away the said <hi>English</hi> Vessel, mak<g ref="char:EOLhyphen"/>ing Prize of 3000 <hi>l.</hi> in Silver and Gold, besides 700 Hogsheads of Tobacco, vallu'd at 2000 <hi>l.</hi> and at the same time carried the said Vessel and Cargo into <hi>Lyn Haven</hi> in the <hi>West-Indies;</hi> but the <hi>Shoreham</hi> Friggat com<g ref="char:EOLhyphen"/>ing at the same time into that Bay, the Pirate threw most of the Tobacco over-board, and Engaged the Eng<g ref="char:EOLunhyphen"/>lish Friggot; but after some hours dispute, the <hi>Shbreham</hi>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ook the said Pirate, and sent the Men for <hi>England;</hi> and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eing severrlly Arraign'd, they pleaded Not Guilty to <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>heir Indictment.</p>
+            <p>Whereupon the King's Evidence were call'd and Sworn, <hi>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>iz. Robert Lurtan</hi> Captain of the <hi>Nicholson, William Hun<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ra<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is Ward, Thomas Bilustan</hi> and <hi>Thomas Jacobs.</hi>
+            </p>
+            <p>
+               <hi>Liwis Getar</hi> the Captain was first Examined, who <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>leaded, that what he did was by the Compulsion of the Ships Crew, and argued, that he was forc'd to take the Command of the <hi>Peace-Galley</hi> upon him, and to turn Pi<g ref="char:EOLhyphen"/>rate. But the aforesaid Evidence made it appear that he was very busy to put the Captain of the <hi>Nicholson</hi> down <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Hole, and did not any way behave himself like <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ne compell'd to that undertaking; he thereupon in his <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>efence produc'd a Letter in Court, containg several <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rguments, of his endeavouring to surrender the Ship to <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>he Governor of <hi>Virginia;</hi> but not making proof there<g ref="char:EOLhyphen"/>of, and the matter being plain against him, he was found Guilty of the said Piracy and Robbery.</p>
+            <p>
+               <hi>Renock Jolliboy,</hi> by his Interpeter also alledged that he <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>as forced on board the said Pirate, and tho he own'd <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e was actualy at the taking the <hi>Nicholson,</hi> yet he pre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ended it was against his consent, but two of the Kings Evidence, being positive that he came on board the Mer<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hant Ship, with great Fury and Resolution, he was af<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>er a fair Tryal found Guilty.</p>
+            <p>
+               <hi>Samuel Elsnel</hi>- was next Examined, but it appearing <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hat he was no way consenting to the said Pirscy; but on <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>he contrary was constrain'd to act, tho unwilling there<g ref="char:EOLhyphen"/>in, he was thereupon acquitted.</p>
+            <p>
+               <hi>Albert Lebley,</hi> being set to the Bar alledged, that he was obliged to Engage against the <hi>Nicholson</hi> by the threats of his Captain, but the Kings Evidence making it ap<g ref="char:EOLhyphen"/>pear to the contrary, he was found Guilty of the said Pi<g ref="char:EOLhyphen"/>racy.</p>
+            <p>
+               <hi>Francis Lelaveen</hi> the next examined by the Court but the Evidence not in the least taxing him of being con<g ref="char:EOLhyphen"/>cerned in the said Pyracy he was acquitted.</p>
+            <p>
+               <hi>Francis Blann,</hi> a Boy of about 13 years of age was <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>xt arraigned, but the Court considering his youth, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d that he did not understand the meaning or at the least consequence of that undertaking, he was acpuitted.</p>
+            <p>
+               <hi>James Setoet,</hi> a Lad of about 15 years of age, was ac<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>uitted by reason he was very much indisposed at the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>me the Piracy was committed.</p>
+            <p>
+               <hi>James Tevet,</hi> was next examined, but he alledging he was actually forced to engage in that Piracy, and the Kings Evidence speaking in his favour he was brought <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>n not guilty.</p>
+            <p>
+               <hi>Heer Van Asteer,</hi> a Dutch man, and Cook of the Ship, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s the next that was tryed, but it plainly appearing <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>h by him, as well as the Kings Evidence. that he was <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Action he was thereupon A<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>
+               <hi>John Golden,</hi> a young Lad under 14 years of age, was next Examin'd, but the Evidence not being positive a<g ref="char:EOLhyphen"/>gainst him, and it appearing that he was entic'd among them, he was Acquitted.</p>
+            <p>
+               <hi>Denoy Piloque,</hi> by his Interpreter made a long and te<g ref="char:EOLhyphen"/>dious defence, but he not proving his Allegations, he was thereupon found Guilty.</p>
+            <p>
+               <hi>Rinald Hughno</hi> was then Try'd for the said Piracy, and the Evidence being plain against him, and he making but a frivolus defence, he was found Guilty.</p>
+            <p>
+               <hi>Peter Scheveleer</hi> was next Arrain'd, and the Captain of the <hi>Nicholson</hi> and others being positive against him he was found Guilty.</p>
+            <p>
+               <hi>Michael Painteer</hi> was try'd also for the said Piracy, but it being plainly made out by the Kings Evidence, that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e was forc'd on board the Ptrate Ship, he was there<g ref="char:EOLhyphen"/>upon Acquitted.</p>
+            <p>
+               <hi>Peter Shomeneer</hi> was next set to the Bar, and tho he used Many Arguments by his Interpreter, to invalidate the Credit of the Evidence, yet the matter of Fact being prov'd against him, he was found Guilty of the <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Pi<g ref="char:EOLhyphen"/>racy and Robbery.</p>
+            <p>
+               <hi>John Antony</hi> being set to the Bar, alledg'd by his In<g ref="char:EOLhyphen"/>terpreter as the other, that he was forc'd into the said Piracy by Captain <hi>Gateer</hi> and others, but the Evidence spoke so home to the matter, that he was brought in Guilty.</p>
+            <p>
+               <hi>John Johnson,</hi> upon his Tryal alledg'd that he was cast away and took up by a Privateer, and by her turn'd over to the <hi>Peace-Gally,</hi> declaring he intended to get a<g ref="char:EOLhyphen"/>way as soon as possible, and the Evidence not speaking to the purpose, he was Acquitted.</p>
+            <p>
+               <hi>James Sboloon</hi> being Arraign'd, told the Court, that 140 Men wer<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the Privateer at first, but declared, that he was very Lame, and not fit for any Enterprize; not<g ref="char:EOLhyphen"/>withstanding, the Evidence affirming the contrary, and it appearing that he was very active in the aforesaid Action, he was thereupon brought in Guilty.</p>
+            <p>
+               <hi>Peter Lester,</hi> Try'd for the said Piracy pleaded not Guilty, and endeavour'd to insin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ate that he had attemp<g ref="char:EOLhyphen"/>ted to escape from his Com<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anions. However, it was made out by the Evidence, tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he was violent in seiz<g ref="char:EOLhyphen"/>ing the <hi>Nicholson,</hi> he was thereupon found Guilty.</p>
+            <p>
+               <hi>Peter Componant</hi> was next Arrained, at which time the Kings Evidence plainly made it apparent that he was the most vigorious in seizing the <hi>Nicholson,</hi> and opposing the <hi>Shoreham</hi> Frigot. and tho he aledged in his Defence, as the rest of the Pirates Crew had don before, that he was forced thereunto it did not avail, for the Jury having considered the mater, brought him in Guilty of Pyracy and Robbery.</p>
+            <p>
+               <hi>Christopher Gill,</hi> was also Tryed for the aforesaid Pi<g ref="char:EOLhyphen"/>racy and Robrery, who utterly denied that he acted therein, any further than he was compelled by his Cap<g ref="char:EOLhyphen"/>tain, but Mr <hi>Jacobs</hi> Carpenter of the <hi>Nicholson,</hi> being positive that he was one of the forwardest in that rash undertaking, he was thereupon brought in Guilty.</p>
+            <p>
+               <hi>Joseph Brouse</hi> was next set to the Bar, and pleaded strongly by his Interpreters that he was not in the least concerned in the aforesaid Piracy, alledging that he was very Sick, and Lame at the same time, but the Evi<g ref="char:EOLhyphen"/>dence affirming that they could not perceive neither any indisosition, or defect in his Limbs, but on the contrary, all the industry imaginable to promote the said Piracy, whereupon the Jury brought him in Guilty of the same.</p>
+            <p>
+               <hi>Francis Lansausey</hi> was next brought to the Bar, when the Evidence against him was Captain <hi>Lurtain,</hi> who d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>clared that the Prisoner seemed very busie in putting, him into the Hol<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, whose Evidence was also strengthen<g ref="char:EOLhyphen"/>ed by Mr. <hi>Jacobs</hi> the Carpenter, and one <hi>William Hunt,</hi> who affirmed that he fought with fury and resolution against the <hi>Shoreham</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>right, who released him and the rest of the Ship Crew, whereupon the Jury brought him in Guilty of the said Piracy.</p>
+            <p>
+               <hi>Peter Monpasian</hi> was Try'd for the aforesaid Piracy and Robbery, the Evidence against him was the Capta<g ref="char:EOLhyphen"/>in with his Boy, and two others, who also deposed that the Prisoner, with many other of his Gang, came on board the <hi>Nicholson,</hi> on the 28th of <hi>April</hi> 1699, and making themselves Masters of the said Vessel, they seized the Captain and put him wit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 50 Englishmen into the Hold, where they used them very severly; and tho he he denyed the whole charge and preteneded several Ex<g ref="char:EOLhyphen"/>cuses, it did not avail, for he was found Guilty of the said Piracy.</p>
+            <p>
+               <hi>Elias Jupee</hi> was call'd, who being charged with the aforesaid Piracy and Robbery, by Captain <hi>Laurten</hi> and others of the Kings Evidence; but he making it appear that he was forced on board by the Quarter-Master of the Pirate, and that he was taken at first by them out of a small Bark by compulsion, and no Evidence being po<g ref="char:EOLhyphen"/>sitive as to any marter of Fact he was Acquitted.</p>
+            <p>
+               <hi>Lenord Flewer</hi> was Arrain'd on the same Account and <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ticular Circumstans alledged by them, and he having lit<g ref="char:EOLhyphen"/>tle to say in his defence, except that common Excuse, which they in general made use of, that being forc<g ref="char:EOLhyphen"/>ed, he was there upon found Guilty.</p>
+            <p>
+               <hi>Francis Mombasa</hi> was next Examin'd, against whom the Captain made Oath that he came on board his Ship and threatned him with Death if they resisted, useing his Men very Inhumanly; he in his defence, said that what he did was through fear of his Captain, with o<g ref="char:EOLhyphen"/>ther infignificant Arguments, which did no way midi<g ref="char:EOLhyphen"/>ca<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e the offence, so he was found Guilty.</p>
+            <p>
+               <hi>Charles Dinant</hi> was charged with the same Crime, by four of the Kings Evidence, and he not making any pro<g ref="char:EOLhyphen"/>per defence, he was Convicted.</p>
+            <p>
+               <hi>Peter Boyce</hi> being Try'd for the said Piracy, Alledged that he was taken out of a Merchant Ship some Months before, strip'd Naked and forced on board the <hi>Peace-Gally</hi> by the Pirates, but the Evidence deposed that he was one in great Esteem among them, and Fought a<g ref="char:EOLhyphen"/>gainst the <hi>Shoreham</hi> to the last extremity, he was there<g ref="char:EOLhyphen"/>upon found Guilty.</p>
+            <p>
+               <hi>James Morro</hi> was charged with the said Piracy, who in his defence alledged that he was a Hunting in the Woods with some other near the <hi>Spanish-Seas,</hi> and some Pirates Landing there took him and forced him to joyn, with them, but he not proving it, and the Evidence be<g ref="char:EOLhyphen"/>ing all positive against him he was found Guilty.</p>
+            <p>
+               <hi>Peter Gero</hi> being Examin'd, endeavoured to insinuate that he was taken in a Conough by the said Pirates in the Ba<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of St <hi>Marks,</hi> and forced to go allong with them, and that he endeavored to escape several times; but it being prov'd in Court to the contrary, he was found Guilty.</p>
+            <p>
+               <hi>Francis Lavoy</hi> was charged with the said Piracy, as be<g ref="char:EOLhyphen"/>ing taken among them, but he Pleading that the Quar<g ref="char:EOLhyphen"/>ter Master force<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> him on board, and the Kings Evedence not being positive against him, he was thereupon Ac<g ref="char:EOLhyphen"/>quitted.</p>
+            <p>
+               <hi>John Rupevt,</hi> was Examin'd, who seem'd to alledge that he was brought on board the said Pirate by force; but the Evidence, who was in the said Pirate before him, proving it otherwise, he was found Guilty.</p>
+            <p>
+               <hi>Michal Danel,</hi> in his defence insisted that he was taken out of a Merchant Ship, and perswaded to go allong with the Pirates, which he did, not knowing them to be such; but one <hi>Hunt</hi> the Kings Evidence and the Cap<g ref="char:EOLhyphen"/>tain of the <hi>Nicholson,</hi> making it appear to the conrarty he was found Guilty.</p>
+            <p>
+               <hi>John Denough</hi> Try'd for the same Offence, made many frivolous Excuses by way of evasion, but the Kings Evidence being very plain and positive against him he was found Guilty.</p>
+            <p>
+               <hi>John Durant</hi> was Try'd, who alledged that he was taken by another Pirate some Months before, and after that forced on board the <hi>Peace-Gally;</hi> but three of the Evidence being plain and positive against him he was found Guilty.</p>
+            <p>
+               <hi>Peter Lorroy</hi> was next Examin'd, who in his defence, declared in Court that he was surprized by the Pirats, as he was a Hunting near the Sea side in the <hi>West Indies,</hi> but no manner of proof appearing in his behalf, he was found Guilty.</p>
+            <p>
+               <hi>Peter Lecrue</hi> made such a like defence; but the Evi<g ref="char:EOLhyphen"/>dence speaking home to the matter he he was found Guilty.</p>
+            <p>
+               <hi>Francis Giliharhert,</hi> being accused by the Kings Evi<g ref="char:EOLhyphen"/>dence alledged by way of defence that he was taken out of a Merchant Ship, by the said Pirate as he was Sailing to <hi>Martinego,</hi> and ever since constrain'd to stay among them; but one of the Evidence deposed that he was more cruel than any of the other Pirates, by not only Beating him when they took their Ship, but put first his Thumb, and then his Little Finger into a Screw, torturing him and others in a barbarous manner, and then threatened to cut his Head off, if he did not discover where the Mo<g ref="char:EOLhyphen"/>ney lay; and then said it was brave Sport to Torment them; which in part the Prisoner confess'd, so that he was found Guilty.</p>
+            <p>
+               <hi>Gerard Mastamel</hi> was next Examin'd, and was charged by the Kings Eviden of acting cruelty to the English Pri<g ref="char:EOLhyphen"/>soners in Beating and Torturing them as aforsaid, and having little to alledge in his Vindication he was also Convicted.</p>
+            <p>
+               <hi>Peter D' Pompi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n,</hi> in his defence alledged that he was taken out of a Merchant Ship and, was kep't by force among them till they were taked by the <hi>Shoreham;</hi> how<g ref="char:EOLhyphen"/>ever the Kings Evidence, especial <hi>Will. Hunt,</hi> spoke so possitive against him that he was found Guilty.</p>
+            <p>
+               <hi>John Leweey</hi> being charged with the said Piracy, in his defedce declared by his Interperter, that being taken by the <hi>Spaniards</hi> in a Wood in the <hi>West Indi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,</hi> and making his Escape, wated for a Ship to get away, met with the Pirate, in which he entered and not knowing <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb facs="tcp:189682:2"/> it to be such, was detaind among th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m, whereupon he was Acquited.</p>
+            <p>
+               <hi>John M<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> was next Examin'd, who alledged that he was taken in the <hi>Spanish</hi> Woods, for <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d among the Pi<g ref="char:EOLunhyphen"/>rates, and detained among them, and no Evidence be<g ref="char:EOLhyphen"/>ing positive against him he was Acquitted.</p>
+            <p>
+               <hi>Francis La Gard<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> vvas also Try'd for the said Piracy, but pleading that he was forced o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d the Pira<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, and the Kings Evidence speaking partly to the same Effect, be was Acquitted.</p>
+            <p>
+               <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> L<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>man</hi> Try'd for the said Pirac<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in his defe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce be alledged that he was Inticed to the <hi>S<gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>-S<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>,</hi> and that he should have good Wages and the Ship prov'd a Pirate▪ with other foreign Arguments; but the Evi<g ref="char:EOLhyphen"/>dence deposing that he had been along time in the Pi<g ref="char:EOLhyphen"/>rate vvithout endeavouring to Escape, he vvas thereup<g ref="char:EOLhyphen"/>on brought in Guilty.</p>
+            <p>
+               <hi>Fra<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s Pa<gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+               </hi> vvas then Examin'd, against vvhom the Evidence declared that he caused the Captain to be put into the Hole, and used great Violence to the <hi>English</hi> af<g ref="char:EOLhyphen"/>ter they had taken Vessel, and he saying little to the purpose vvas found Guilty.</p>
+            <p>John Levign<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, <hi>Try'd for the said Piracy; alledged in his defence that being a Tayler, some Marin<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s perswaided him to go on B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ard to work in his Trade, but when at Sea they <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> him they had other work for him: And the Kings Evidence not being po<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tive against him he was acquitted.</hi>
+            </p>
+            <p>John Johnson, <hi>being Examind, declared by his Inter<g ref="char:EOLhyphen"/>pret<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> that he was taken in a Dutch Merchant Ship, which the Ships-crew made a Pirate of and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orced him to continue on Boa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> he often attempted to E<gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>, which some of the King<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Evidence seem'd to acknow<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ge whereupon he was acqui<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ed.</hi>
+            </p>
+            <p>Andrew Radnor <hi>in his defence a<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>dged that he was inticed <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Board the Pirate not knowing it to be such, by the Captain and others, by promising him g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>od Wages,</hi> &amp;c. <hi>Bu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> all the Kings Evidence deposing to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he contrary, by affirming that he came of his own accord, he was thereupon f<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>d Guilty.</hi>
+            </p>
+            <p>Charles Boyl <hi>being charged with the said Piracy, en<g ref="char:EOLhyphen"/>deavoured to ex<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>se himself by alledging he did <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> know th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to be Pirates <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> we<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Board: and farther in<g ref="char:EOLhyphen"/>f<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ed that the quarter Master made him Drunk before he we<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t from</hi> Domingo; <hi>but in the other hand the Kings Evidence said he was not Dr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nk at that time and knew very well they were Pirates, so that he was found Guilty.</hi>
+            </p>
+            <p>John Byden <hi>was <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Examin'd who by wa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of Ex<g ref="char:EOLunhyphen"/>t<gap reason="illegible" resp="#keyers" extent="7 letters">
+                     <desc>〈7 letters〉</desc>
+                  </gap> alledged that he was taken by the Pirates from on sh<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> St.</hi> Domingo <hi>and forced on Board the Pirates, but i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ing othe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wise by the Kings Evidence, he was there <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> found Guilty.</hi>
+            </p>
+            <p>John Poin<gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <hi>being Examin'd, alledged that, he was taken in the VVood: as he was Hunting, and forced on Board among the Pir<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> from wh<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e could not Escape th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> he endeavoured it: But several of the Evidences speak<g ref="char:EOLhyphen"/>ing positively against him he was found Guilty.</hi>
+            </p>
+            <p>Abraham Mos<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <hi>Try'd for the said Pi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>acy and Rob<g ref="char:EOLhyphen"/>be<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, declared by an Interpreter that <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of a Vessel by force and pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>duced several Aff<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>vits to that E<gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>, and none of the Evidence <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ng positive against him <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> was acquitted.</hi>
+            </p>
+            <p>Anthony Coal <hi>being <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>iz'd, alledged in his defe<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e that being <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Spanish Woods a H<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ing near the Sea-side the Pirates Boat there Landing, the Crew <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>k him away by vi<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>nce a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d de<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ain'd him among them: But some Evidence making i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> appear to the contrary he was found Guilty.</hi>
+            </p>
+            <p>Peter Lafountain <hi>pleaded in his defence that he with other were taken o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r of a VV<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> where he was Hunting and carried in Board the Pirate and there kept by force, and the Ev<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dence not speaking to the purpose he was acquitted.</hi>
+            </p>
+            <p>Nicholas Po<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>on <hi>the made the same defence, but with less <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>cess for the Evidence being positive that he was very active in the Piracy he was thereupon found Guilty.</hi>
+            </p>
+            <p>Francis Daniel <hi>being Try'd <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or the said Piracy, alledged in his defence that he with several others was forced on Board the Pirate from a Merchant Ship near</hi> Anteigo, <hi>and some of the King<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Evidence speaking partly to the same pur<g ref="char:EOLhyphen"/>pose he was Acq<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ted.</hi>
+            </p>
+            <p>
+               <hi>Francis Gaff<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>y</hi> being Examin'd declard in his defence that he vvas in<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iced on board the said Pirate, to vvork on his Trade, he being a Carpenter, and that he did not <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ovv it vvas a Pirate, till they took the Ship call'd the <hi>Nichol<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on,</hi> at vvhich time he design'd to make his Escape; but not proving hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Allegations, and the Evide<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce being positive against him be vvas found Guilty.</p>
+            <p>
+               <hi>James Randal,</hi> o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his Tryal alledged that he vvas Decoy'd on board <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Dutchman, vvho told him that he should have goo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ages for a Voyage to <hi>Virgina;</hi> Hovvever it being made appear that he acted vvillingly and Chearfully among the Pirates, and seem'd Indust<g ref="char:EOLhyphen"/>rous to pro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e their unla<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ful Attempts, he vvas found Guilty.</p>
+            <p>
+               <hi>Michael Anderson<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <gap reason="illegible" resp="#keyers" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>man Try'd for the said Piracy, in his Defence affi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>'d that going on board a Dutch Merchant Ship to vvork at his Trade (he being a Carpen<g ref="char:EOLhyphen"/>ter) he vvas taken thence by the said Pirates, and forced along vvith them; vvhich the Kings Evidence could not contradict, he vvas thereupon Acquitted.</p>
+            <p>
+               <hi>Francis De<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> v<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as al<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o Try'd for being concern'd in the said Piracy; v<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ho i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his defence endeavoured to in<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nuate that he vvas co<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>el'd on board the Pirate, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d the ver<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Evidence aga<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nst him knevv it; but they on the contrary affirm'd that he came Vollntary on board <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ithout any manner <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> co<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>traint, vvhereupon he vvas to and Guilty.</p>
+            <p>Back <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o <hi>being <gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>n'd, alledged that the Pirates C<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>w <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> him from of a V<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ss<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l call d a</hi> C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>noa, <hi>a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> on <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>rd their Ve<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> el, whi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h the Evidence them<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>elve<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> could not Contradict, whereu<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e was A<gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed.</hi>
+            </p>
+            <p>Lewis Bonson <hi>was next call'd <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Bar, and charg'd with the said Piracy, but he alledging t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at he was fer<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'d fro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> on Story b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> some of the Pirates, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ing him he should <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed Wages, and so De<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>'d hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> on <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d and kept him b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Compu<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> and the E<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>dence not being very positive, <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> was Acquited.</hi>
+            </p>
+            <p>Francis Bo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n <hi>in his defence alledged that being a Hunting there came a Pira<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Shall <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Shore, and took him by force, and so de<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ai<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>im; but t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Evidence affirming that he us'd to be very active in promoting their Piratical Projectes he was found Guilty.</hi>
+            </p>
+            <p>John Durantia, <hi>alledged that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e was taken on board a Dutch Ship call'd the</hi> Barnard, <hi>and continued in the Pirats several Months by constrains; but t<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ee of the Kings Evidence seemed to acknowledge, so that he was Acquitted.</hi>
+            </p>
+            <p>Peter Luno <hi>being call'd to the Bar for the said Piracy and Robbery, he endeavoured to Extenu<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e his Offence by alledging that he was Decay'd on board by one if t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Crew, whom he did not suspect to be a Pirate, whereby he was detain'd against his will, but the Captain of the</hi> Nicholson <hi>and one Hunt, a Lad spaking positivly against him as to matter of fact, he was found Guilty.</hi>
+            </p>
+            <p>Joseph Tremon <hi>Indicted for the said offence; but he al<g ref="char:EOLhyphen"/>ledging by his In<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eters that he was forced on board the Pirate, and the Kings Evidence partly acknowledging the same, he was Acquitted.</hi>
+            </p>
+            <p>Peter Limber <hi>being call'd to the Da<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, declared in his defence that he was taken on board a Vessel, laden with Wind and Brandy, and that having Plundred the said Ship, they took him and others away by force, and the Evidence against him not being suffi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ent to Convict him, he was Acquitted.</hi>
+            </p>
+            <p>
+               <hi>Peter Lushard</hi> being Arraign'd for the said Piracy, alledged that he was taken on Board the Pirate by force, but the Kings Evidence being positive against him he was found Guilty.</p>
+            <p>
+               <hi>An<gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> Merrit,</hi> being Examin'd declared by his Inter<g ref="char:EOLhyphen"/>preter that he was made Drunk and so deco 'd on Board the Pirate, and the Evidence not being positive against him he was acquitted.</p>
+            <p>
+               <hi>Joseph Las<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er,</hi> being indicted on the same account, alledged that he was ta<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en by force, from on board a Vessel laden with Corn and kept among the Pirates a<g ref="char:EOLhyphen"/>gainst his consent, he was thereupon acquitted.</p>
+            <p>
+               <hi>John Bor<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> insinuated that he was not sencible they were Pirates when he entered on board the said <hi>Peace-Gally,</hi> and that he endeavoured to Escape several times, but it appearing o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>herwise by the Kings Evidences he was thereupon found Guilty.</p>
+            <p>
+               <hi>Joseph L<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rud<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> was next Examin'd, who in his de<g ref="char:EOLhyphen"/>fence asscerted that he was taken by force from on shore, by some of the Pirates Crew, and the Kings Evidence themselves, not contradicting him he was acquitted.</p>
+            <p>
+               <hi>Michael Lafeer,</hi> being Indicted for the said Piracy alledged that he was taken from on board a Merchant Man by the Pirates, and kept among them against his consent; but on the other hand, the Kings Evidence made it appear that he was from first to last most active in promoting the said Piracy and Robbery, so that he was found Guilty.</p>
+            <p>
+               <hi>Peter Jelly</hi> was next Examin'd and pleaded not Guilty, but his excuses being not at all to the purpose, he was found Guilty.</p>
+            <p>
+               <hi>John La<gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>n</hi> being Try'd for the same offence, de<g ref="char:EOLhyphen"/>clared by his Interpreter that he was forced on board the Pirate in the <hi>West-Indies,</hi> and compell'd to act tho unwillingly among them, which the Kings Evidence in part acknowledged; he was thereupon acquitted.</p>
+            <p>
+               <hi>Francis Dreway</hi> on his Tryal made the same defence as aforesaid, but what contrary success for four of the Kings Evidence deposing that he was more than ordi<g ref="char:EOLhyphen"/>nary active in the said Piracy, he was found Guilty.</p>
+            <p>
+               <hi>John Posser</hi> Indicted for the said Piracy and Robbery alledged that he was taken out of a Merchant-ship and and forced to act contrary to his Inclination in the said Pirate, but it appearing otherwise by Two of the Evi<g ref="char:EOLhyphen"/>dence against him, so he was also found Guilty.</p>
+            <p>
+               <hi>John Duby<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce</hi> and <hi>Peter Manguino,</hi> where both Try'd on three Indictments, the first for Robbing, Riffling and Plundring the aforsaid Merchant Ship call'd the <hi>Nicholson,</hi> the Evidence being very positive against them. The se<g ref="char:EOLhyphen"/>cond for Robbing and Plund<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ng a M<gap reason="illegible" resp="#keyers" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p call'd the <hi>Indian King,</hi> Ship and Tackle vallud a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <hi>l.</hi> 1000 Hogsheads of Tobacco, vallue 3000 <hi>l.</hi> 100 C<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nces of Silver, vallue 20 <hi>l.</hi> The third indictment was for Rob<g ref="char:EOLhyphen"/>bing, Plundring and Burning the <hi>Pensilva<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> Merchant-Ship and Tackle valued <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t 5<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <hi>l.</hi> 200 Clo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h C<gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>, and So Bri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nes of a con<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ide<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>able vaine the Evidence against them, deposed th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t they were both more active and reso<g ref="char:EOLunhyphen"/>lute than ordinary in all these Pirates, and they having little to alled<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e in the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r own d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ce, the Jury brought them both in Guilty of three Indictments.</p>
+            <p>
+               <hi>Peter Clergy</hi> was Try'd on all the aforesaid Indictments but <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e alledged t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at he was t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ken on bo<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d the Pi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ate b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> force, and it appearing by the Kings E<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>dence that he acted on the said Vessel only as Su<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>; he was thereupon acquitted of all three Indictments.</p>
+            <p>
+               <hi>Julian Lasco<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n, Peter Langueno, Oliver Si<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vaster, Reyne Hughnor, Lawrence Carjon,</hi> and <hi>William Pha<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e;</hi> were all 6 Try'd on the a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oresaid Indictments, but it ap<g ref="char:EOLhyphen"/>pea <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they were cast-away and taken up when <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n gre<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and danger, by the said Pirates, and kept on <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oard by force, which the Kings Evidence did not deny, so that they were all Six acquitted of the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aid Indictments.</p>
+            <p>
+               <hi>John Cox</hi> vvas then Indicted for Drovvning or Choak<g ref="char:EOLhyphen"/>ing <hi>Thomas She<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>chard</hi> on the 2d. of <hi>Jully</hi> at <hi>Harbaur<g ref="char:EOLhyphen"/>main,</hi> near <hi>Newfoundland,</hi> in the <hi>West-Indies,</hi> the Evi<g ref="char:EOLhyphen"/>dence against him vvas <hi>John Knight</hi> vvho deposed, that the P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>isoner, Mr. <hi>Shephard</hi> and himself being in a large Fishing Boat on the said Coast about 3 a Clock in the Morning vvhen having been Drinking most part of that Night, the Prisoner vvithout any manner of pro<g ref="char:EOLhyphen"/>vocation threvv Mr. <hi>Shephard</hi> over board which the Evidence seeing go<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of him and pull'd him into the Boat again, <gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>eupon the Prisoner push'd him over b ard a sec<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> time, and then he was Drown'd? The Prisoner <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> defence alledged that he did not touch the <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ed at that time, or at any other, in Anger, and <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hal insisted that the Evidence was a malicio<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, and had Beat the Deceased just before affirming <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ey were all Three very much in Drink, there<gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d think that the Deceased fell into the Wa<g ref="char:EOLhyphen"/>ter b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cident and it appearing by the Evidence that no manner or quarel was between the Prisoner and the D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ceased, the Jury having considered the matter brought him in not Guilty.</p>
+            <p>Captain <hi>Padiston</hi> and <hi>John Swillivant,</hi> having surren<g ref="char:EOLhyphen"/>dred themselves, on an Accusation of Piracy, vvere brought to the Bar, but none appearing against them, they vvere both Acquitted by Proclamation.</p>
+            <p>
+               <hi>The</hi> 29 <hi>Pirates who were acquitted of the Piracy of Rob<g ref="char:EOLunhyphen"/>bing the Merchant Ship call'd the Nicholson beforementioned were called to the Bar on Thursday in the Afternoon, an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Tryed upon two other Indictments,</hi> viz. <hi>The one of Robbin and Riffling a Merchant Ship called the Indian King, on t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> High Seas, near Cape Henry aforesaid, taking and carryin<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> away the said Ship, wherein were Goods and Money of con<g ref="char:EOLunhyphen"/>siderable value; the other for practically taking, plundering and riffling another Merchant Ship called the</hi> Pensilvania <hi>wherein were Goods of Extraordinary worth and value, th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> particulars of which are mentioned in the Trials of</hi> Joh<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Dubois <hi>and</hi> Peter Manguino, <hi>&amp;c. The Trials of those</hi> 29 <hi>was very tedious; for tho the Kings Evidence were ver<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> positive, in proving all the said Prisoners on board the Py<g ref="char:EOLunhyphen"/>rate, at taking both the</hi> Indian King <hi>and the</hi> Pensilvani<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <hi>yet the Prisoners in their defence, made such manifest Pro<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of their being forced on board the Pirate, and the Kin<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Evidence themselves acknowledging most of them had ende<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>voured, or at least intended to make their Escapes as soon<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> a favourable opportunity offered, except</hi> Peter Rumo, <hi>w<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> had been among the Pirates ever since they were but nine i<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> number; so after the Court had explain'd the Evidence to the Jury, they brought him in Guilty of both I<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dictments, and acquitted the rest.</hi>
+            </p>
+            <div type="judgment">
+               <head>The Tryals being over, the Court proceeded to give Judgment as followeth, <hi>vix. Received Sentence of Death, 52.</hi>
+               </head>
+               <p>Levis Getar, Reyno Jolliboy, Albert Lebly, Deno Peloque Renot Hughno, Francis Ly Sanguina, Peter Shevelier, Peter Peter Delepomenater, John Antonio, Peter Champaign Christ Gi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, James Salene, Joseph Prouse, Peter Mompasia Lenord Polor'd, Francis Fombel, Charles Demeree, Pete<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Boyce, James Morrio, Peter Gero, Joseph Renew, John R<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>bert, Michaiel Daniel, Joseph Durant, Pettrr Lacrol, Fra<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>cis Gilyicharbert, George Dichoponea, Peter D' Pompe Francis Arman, Francis Jupee, Andrew Reden, Char<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Boy, John Bydel, John Pcichevel, Anto Ceurt, Francis J<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>sme, James Randan, Isaac Proisever, Francis Boy, Jo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Durantia, Peter La Fountain, Ralph Lumber, Peter Shard, John Borto, Michael La Fever, Peter Jolly, Fr<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>cis D'urry, John Possuer, John Deboy, Peter Minguino.</p>
+               <p>
+                  <hi>Note.</hi> The Ordinary of <hi>Newgate</hi> being Indisposed Eminent Divine is to Preach the Condemn'd Ser<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Morrow in the Morning and Afternoon.</p>
+               <p>Printed according to Order.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>W.H.</hi> near <hi>Fleet-Bridge,</hi> 1700.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
